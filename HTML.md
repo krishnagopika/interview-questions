@@ -66,7 +66,7 @@ window.
     
   <details><summary>Show Answer</summary>
 
-  </details>
+
     
     HTML has six "levels" of headings:
 
@@ -79,6 +79,8 @@ window.
 
 The number of headings is inversely proportional to the precedence of the heading. `<h1>` is the main heading and all the headings after that would be subheadings.
     
+    
+      </details>
     
 8. What is paragraph tag?
     
@@ -93,12 +95,13 @@ each paragraph on a new line
 with some space between it and
 any subsequent paragraphs</p>
 ```
-      
-9. What are list in HTML? List out various types of lists in HTML.
-
-
   </details>
     
+    
+9. What are list in HTML? List out various types of lists in HTML.
+    
+<details><summary>Show Answer</summary>
+
     
 1. **Ordered lists**: Ordered lists  are lists where each item in the list is numbered. For Ex: recipe and legal contract.
 
@@ -127,11 +130,12 @@ any subsequent paragraphs</p>
 ```
 
 <i><b>Note:</b>Lists can be nested inside one another and the browser provided the indentation for the nested lists.</i>
+
+ </details>
     
+10. How to add links in HTML?
     
-    10. How to add links in HTML?
-    
-    <details><summary>Show Answer</summary>
+<details><summary>Show Answer</summary>
       
       `<a>``</a>` is used to link one webage in the other webiste(absolute url) or the existing website(relative url).
 
